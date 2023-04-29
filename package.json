@@ -1,0 +1,15 @@
+{
+  "name": "01_recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignement01_fibonacci.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "oignon_fugace <tanguy.freycon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
